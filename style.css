@@ -1,0 +1,32 @@
+body {
+  background-color: lightgrey;
+}
+header {
+  background-color: black;
+  color: white;
+  height: 50px;
+}
+a {
+  padding: 10px;
+  color: white;
+  font-size: 16pt;
+  text-decoration: none;
+}
+li {
+  margin-top: 10px;
+  display: inline-block;
+}
+p {
+  height: 300px;
+  column-count: 4;
+  column-fill: balance;
+  column-width: 300px;
+  text-align: justify;
+  column-rule: 5px double black;
+}
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
